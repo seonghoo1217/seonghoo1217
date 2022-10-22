@@ -19,7 +19,8 @@
 안녕하세요🙌<br>
 제 이름은 이성호이고 자바 백엔드를 공부하고 있습니다<br>
 현재 대학교에 재학중이며 모르는 부분을 수용하고 배우는 자세로 임합니다<br>
-이 세상의 꼭 필요한 API같은 개발자가 되고싶습니다✌️✌️<br>
+저는 느리더라도 함께 성장을 추구하는 거북이 같은 개발자입니다✌️✌️<br>
+항상 부족하지만 천천히 앞으로 정진하겠습니다<br>
 </p>
 
 <br>
@@ -34,7 +35,7 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/MariaDB-#003545?style=for-the-badge&logo=MariaDB&logoColor=white">
+    <img src="https://img.shields.io/badge/MariaDB-#003545?style=for-the-badge&logo=MariaDB&logoColor=black">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> 
 </p><br>
 
