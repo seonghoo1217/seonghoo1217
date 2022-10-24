@@ -14,21 +14,20 @@
 </p>
 
 <br>
-<p> 저에 대해 자세히 알고 싶으시다면 👉 <a href="https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a></p>
+<p align="center"> 저에 대해 자세히 알고 싶으시다면 👉 <a href="https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style='margin-top:5px;'></a></p>
 <br>
-<p> 저의 작품에 대해 알고 싶으시다면 👉 <a href="https://substantial-offer-24f.notion.site/4739abfcce0d4413950eca4844be4758?v=1dda523c50694c47b960e0cf02c38269"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a></p>
+<p align="center"> 저의 작품에 대해 알고 싶으시다면 👉 <a href="https://substantial-offer-24f.notion.site/4739abfcce0d4413950eca4844be4758?v=1dda523c50694c47b960e0cf02c38269"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style='margin-top:5px;'></a></p>
 <br>
 
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
-    💡 used as the main 👍👍
+    💡 My main Tech Stack
 </p>
 
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=black">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
     <br>
@@ -40,11 +39,11 @@
 </p><br>
 
 <p align="center">
-    💡used at least once 🤓
+    🤓 used at least once 
 </p>
 
 <p align="center" display="inline-block">
-  
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
