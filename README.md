@@ -5,7 +5,6 @@
 <p align="center">
     <Strong>☁️SNS list☁️</Strong><br><br>
     <a href="https://learngoeson.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
-    <a href="https://www.facebook.com/profile.php?id=100007768203925" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
     <a href="https://www.instagram.com/etc_lee.t.c/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
     <br>
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonghoo1217%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
@@ -14,9 +13,9 @@
 </p>
 
 <br>
-<p align="center"> 저에 대해 자세히 알고 싶으시다면 👉 <a href="https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style='margin-top:5px;'></a></p>
+<p align="center"> 저에 대해 자세히 알고 싶으시다면 👉 <a href="https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style="margin-top: 10px;"></a></p>
 <br>
-<p align="center"> 저의 작품에 대해 알고 싶으시다면 👉 <a href="https://substantial-offer-24f.notion.site/4739abfcce0d4413950eca4844be4758?v=1dda523c50694c47b960e0cf02c38269"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style='margin-top:5px;'></a></p>
+<p align="center"> 저의 작품에 대해 알고 싶으시다면 👉 <a href="https://substantial-offer-24f.notion.site/4739abfcce0d4413950eca4844be4758?v=1dda523c50694c47b960e0cf02c38269"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style="margin-top: 10px;"></a></p>
 <br>
 
 <p align="center">
@@ -52,8 +51,5 @@
 </p>
 
 <br>
-
-
-<div align=center>
 
 ![seonghoo1217's github stats](https://github-readme-stats.vercel.app/api?username=seonghoo1217&show_icons=true)
