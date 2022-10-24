@@ -14,20 +14,14 @@
 </p>
 
 <br>
+<p> 저에 대해 자세히 알고 싶으시다면 👉 <a href="https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=black"></a></p>
 
-<p align="center">
-안녕하세요🙌<br>
-제 이름은 이성호이고 자바 백엔드를 공부하고 있습니다<br>
-현재 대학교에 재학중이며 모르는 부분을 수용하고 배우는 자세로 임합니다<br>
-저는 느리더라도 함께 성장을 추구하는 거북이 같은 개발자입니다✌️✌️<br>
-항상 부족하지만 천천히 앞으로 정진하겠습니다<br>
-</p>
-
+<p> 저의 작품에 대해 알고 싶으시다면 👉 <a href="https://substantial-offer-24f.notion.site/4739abfcce0d4413950eca4844be4758?v=1dda523c50694c47b960e0cf02c38269"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=black"></a></p>
 <br>
 
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
-    💡used as the main 👍👍
+    💡 used as the main 👍👍
 </p>
 
 <p align="center" display="inline-block">
@@ -59,6 +53,7 @@
 </p>
 
 <br>
+
 
 <div align=center>
 
