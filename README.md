@@ -14,9 +14,9 @@
 </p>
 
 <br>
-<p align="center"> 저에 대해 자세히 알고 싶으시다면 👉 <a href="https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style='margin-top:5px;'></a></p>
+<p align="center"> 저에 대해 자세히 알고 싶으시다면 👉 <a href="https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style='margin-top: 15px;'></a></p>
 <br>
-<p align="center"> 저의 작품에 대해 알고 싶으시다면 👉 <a href="https://substantial-offer-24f.notion.site/4739abfcce0d4413950eca4844be4758?v=1dda523c50694c47b960e0cf02c38269"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style='margin-top:5px;'></a></p>
+<p align="center"> 저의 작품에 대해 알고 싶으시다면 👉 <a href="https://substantial-offer-24f.notion.site/4739abfcce0d4413950eca4844be4758?v=1dda523c50694c47b960e0cf02c38269"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style='margin-top: 15px;'></a></p>
 <br>
 
 <p align="center">
