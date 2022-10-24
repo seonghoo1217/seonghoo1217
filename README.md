@@ -51,5 +51,6 @@
 </p>
 
 <br>
-
+<div align="center">
 ![seonghoo1217's github stats](https://github-readme-stats.vercel.app/api?username=seonghoo1217&show_icons=true)
+</div>
