@@ -13,11 +13,13 @@
 </p>
 
 <br>
-<p align="center"> 저에 대해 자세히 알고 싶으시다면 👉 [![Notion Badge](https://img.shields.io/badge/-Notion-616161?style-square&logo=notion&logoColor=white&link=https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd)](https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd)
+<p align="center"> 저에 대해 자세히 알고 싶으시다면 👉 
+[![Notion Badge](https://img.shields.io/badge/-Notion-616161?style-square&logo=notion&logoColor=white&link=https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd)](https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd)
 
 <br>
 
-<p align="center"> 저의 작품에 대해 알고 싶으시다면 👉 [![Notion Badge](https://img.shields.io/badge/-Notion-616161?style-square&logo=notion&logoColor=white&link=https://substantial-offer-24f.notion.site/4739abfcce0d4413950eca4844be4758?v=1dda523c50694c47b960e0cf02c38269)](https://substantial-offer-24f.notion.site/4739abfcce0d4413950eca4844be4758?v=1dda523c50694c47b960e0cf02c38269)
+<p align="center"> 저의 작품에 대해 알고 싶으시다면 👉 
+[![Notion Badge](https://img.shields.io/badge/-Notion-616161?style-square&logo=notion&logoColor=white&link=https://substantial-offer-24f.notion.site/4739abfcce0d4413950eca4844be4758?v=1dda523c50694c47b960e0cf02c38269)](https://substantial-offer-24f.notion.site/4739abfcce0d4413950eca4844be4758?v=1dda523c50694c47b960e0cf02c38269)
 
 <br>
 
@@ -44,9 +46,7 @@
     🤓 MY MOST LANGUAGE 
 </p>
 
-<p align="center" display="inline-block">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siby1lA&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonghoo1217&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
 
 <br>
 <div align="center">
