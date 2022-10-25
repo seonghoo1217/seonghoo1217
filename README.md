@@ -13,9 +13,12 @@
 </p>
 
 <br>
-<p align="center"> 저에 대해 자세히 알고 싶으시다면 👉 <a href="https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style="margin-top: 10px;"></a></p>
+<p align="center"> 저에 대해 자세히 알고 싶으시다면 👉 [![Notion Badge](https://img.shields.io/badge/-Notion-616161?style-square&logo=notion&logoColor=white&link=https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd)](https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd)
+
 <br>
-<p align="center"> 저의 작품에 대해 알고 싶으시다면 👉 <a href="https://substantial-offer-24f.notion.site/4739abfcce0d4413950eca4844be4758?v=1dda523c50694c47b960e0cf02c38269"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style="margin-top: 10px;"></a></p>
+
+<p align="center"> 저의 작품에 대해 알고 싶으시다면 👉 [![Notion Badge](https://img.shields.io/badge/-Notion-616161?style-square&logo=notion&logoColor=white&link=https://substantial-offer-24f.notion.site/4739abfcce0d4413950eca4844be4758?v=1dda523c50694c47b960e0cf02c38269)](https://substantial-offer-24f.notion.site/4739abfcce0d4413950eca4844be4758?v=1dda523c50694c47b960e0cf02c38269)
+
 <br>
 
 <p align="center">
@@ -38,16 +41,11 @@
 </p><br>
 
 <p align="center">
-    🤓 used at least once 
+    🤓 MY MOST LANGUAGE 
 </p>
 
 <p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">  
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siby1lA&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
 </p>
 
 <br>
