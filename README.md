@@ -1,9 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Seonghoo1217's%20GitHub%20Profile&descAlignY=51&descAlign=62)
-
-<br>
-
 <p align="center">
-    <Strong>☁️SNS list☁️</Strong><br><br>
+    <Strong>☁️Contact Me☁️</Strong><br><br>
     <a href="https://learngoeson.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
     <a href="https://www.instagram.com/etc_lee.t.c/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
     <br>
@@ -13,7 +9,7 @@
 </p>
 
 <br>
-<p align="center"> 저에 대해 자세히 알고 싶으시다면</p> 
+<p align="center"> About Me</p> 
 <div align="center">
 
 👉 [![Notion Badge](https://img.shields.io/badge/-Notion-616161?style-square&logo=notion&logoColor=white&link=https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd)](https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd)
@@ -21,7 +17,7 @@
 </div>
 <br>
 
-<p align="center"> 저의 작품에 대해 알고 싶으시다면</p> 
+<p align="center"> About My portfolio</p> 
 <div align="center"> 
 
 👉    [![Notion Badge](https://img.shields.io/badge/-Notion-616161?style-square&logo=notion&logoColor=white&link=https://substantial-offer-24f.notion.site/4739abfcce0d4413950eca4844be4758?v=1dda523c50694c47b960e0cf02c38269)](https://substantial-offer-24f.notion.site/4739abfcce0d4413950eca4844be4758?v=1dda523c50694c47b960e0cf02c38269)
