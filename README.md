@@ -61,10 +61,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonghoo1217&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
 
 </div>
-    
-<br>
-<br>
-<div align="center">
-
-![seonghoo1217's github stats](https://github-readme-stats.vercel.app/api?username=seonghoo1217&show_icons=true)
 
