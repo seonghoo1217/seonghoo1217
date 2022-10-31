@@ -1,3 +1,7 @@
+![README_IMG](Readme.jpg)
+
+<br>
+
 <p align="center">
     <Strong>☁️Contact Me☁️</Strong><br><br>
     <a href="https://learngoeson.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
