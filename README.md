@@ -1,6 +1,6 @@
-<H2> Hi, Every One 🤗 Introduce My Self 👇 </H2>
+<H3 align="center"> Hi, Every One 🤗 Introduce My Self 👇 </H3>
 
-![README_IMG](Readme.jpg)
+![README_IMG](ReadMe.png)
 
 <br>
 
