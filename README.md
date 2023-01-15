@@ -24,13 +24,3 @@
 
 👉    [![Notion Badge](https://img.shields.io/badge/-Notion-616161?style-square&logo=notion&logoColor=white&link=https://substantial-offer-24f.notion.site/4739abfcce0d4413950eca4844be4758?v=1dda523c50694c47b960e0cf02c38269)](https://substantial-offer-24f.notion.site/4739abfcce0d4413950eca4844be4758?v=1dda523c50694c47b960e0cf02c38269)
 </div>
-
-<br>
-
-<p align="center">
-    🤓 MY MOST LANGUAGE 
-</p>
-<div align="center" >
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonghoo1217&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
-</div>
