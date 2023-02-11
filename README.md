@@ -1,15 +1,33 @@
-<H3 align="center"> Hi, Every One 🤗 Introduce My Self 👇 </H3>
-<br>
-<div align="center">
-    
-![README_IMG](ReadMe.png)
-
+<H2 align="center"> Hi, Every One 🤗 Introduce My Self 👇 </H3>
 <br>
 
-<Strong>📧Email📧</Strong><br>lsh6451217@gmail.com<br>
-</p>
+```java
 
-<br>
+class me {
+	String name="Lee, Seong ho";
+	String position=" Backend Developer";
+	List<String> tech_stack_BE=new ArrayList<>(){
+		{
+			add("Java");
+			add("Spring Boot");
+			add("JPA");
+			add("Maria DB");
+		}
+	};
+	List<String> infra=new ArrayList<>(){
+		{
+			add("AWS");
+			add("Docker");
+			add("Jenkins");
+		}
+	};
+	String motto="grow together, slow but steady";
+	String address="Hanam, Gyeonggido";
+	String contact="lsh6451217@gmail.com";
+}
+
+```
+
 <strong align="center"> About Me</strong> 
 <br>
 <div align="center">
