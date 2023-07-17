@@ -33,6 +33,7 @@ class me {
 - [무한한 가능성과 유익한 가치를 창출하는 점에 이끌려 좋은 영향](https://learngoeson.tistory.com/entry/%F0%9F%99%8C-%EB%82%B4%EA%B0%80-%EC%A7%80%ED%96%A5%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%84%9C%EC%9D%98-%EB%B0%A9%ED%96%A5)을 주는 것을 목표로 삼아 백엔드 전반에 걸친 경험을 하고 있습니다.
 - 누구와 함께해도 좋은 개발자를 지향하며, 협업 문화와 클린코드에 관심이 많습니다
 - 사소한 것으로부터 영감을 받아 위대함이 창조될 수 있다고 생각하기에 주변에 대해 항상 고민하고 생각합니다
+- 배움을 기록하고 회고하며, 공유함으로서 **함께 자라나기**, **깊게 자라나기**를 지향합니다
 
 ### Contact
 [![Dev Blog Badge](http://img.shields.io/badge/-Dev%20Blog-316B83?style=flat&logo=github&link=https://learngoeson.tistory.com/)](https://learngoeson.tistory.com/)
