@@ -9,14 +9,19 @@ class me {
 	List<String> tech_stack_BE=new ArrayList<>(){
 		{
 			add("Java");
+			add("Kotlin");
 			add("Spring Boot");
 			add("JPA");
-			add("Maria DB");
+			add("OOP");
+			add("Spring WebFlux");
+			add("Junit & Mock Test");
 		}
 	};
 	List<String> infra=new ArrayList<>(){
 		{
 			add("AWS");
+			add("Continuous Integration")
+			add("Continuous Delivery");
 			add("Docker");
 			add("Jenkins");
 		}
