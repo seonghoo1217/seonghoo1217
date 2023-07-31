@@ -3,7 +3,7 @@
 
 ```java
 
-class me {
+class Me {
 	String name="Lee, Seong ho";
 	String position=" Backend Developer";
 	List<String> tech_stack_BE=new ArrayList<>(){
