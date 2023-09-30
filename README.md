@@ -40,12 +40,6 @@ class Me {
 - 사소한 것으로부터 영감을 받아 위대함이 창조될 수 있다고 생각하기에 주변에 대해 항상 고민하고 생각합니다
 - 배움을 기록하고 회고하며, 공유함으로서 **함께 자라나기**, **깊게 자라나기**를 지향합니다
 
-## Interested
-<div class="gif-container">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*MmlUmaa0oRxkQXzrKghdMQ.gif" width="150px;" height="150px;">
-  <img src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif" width="150px;" height="150px;">
-</div>
-
 
 ### Contact
 [![Dev Blog Badge](http://img.shields.io/badge/-Dev%20Blog-316B83?style=flat&logo=github&link=https://learngoeson.tistory.com/)](https://learngoeson.tistory.com/)
