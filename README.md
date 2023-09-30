@@ -40,9 +40,15 @@ class Me {
 - 사소한 것으로부터 영감을 받아 위대함이 창조될 수 있다고 생각하기에 주변에 대해 항상 고민하고 생각합니다
 - 배움을 기록하고 회고하며, 공유함으로서 **함께 자라나기**, **깊게 자라나기**를 지향합니다
 
+## Interested
+<div class="gif-container">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*MmlUmaa0oRxkQXzrKghdMQ.gif" width="150px;" height="150px;">
+  <img src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif" width="150px;" height="150px;">
+</div>
+
+
 ### Contact
 [![Dev Blog Badge](http://img.shields.io/badge/-Dev%20Blog-316B83?style=flat&logo=github&link=https://learngoeson.tistory.com/)](https://learngoeson.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-5F939A?style=flat&logo=Gmail&logoColor=white&link=mailto:lsh6451217@gmail.com)](mailto:lsh6451217@gmail.com)
 [![Notion Badge](http://img.shields.io/badge/-Portfolio-63B4B8?style=flat&logo=notion&link=https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd)](https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd)
 <a href="https://www.instagram.com/e.t.c_lee" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
