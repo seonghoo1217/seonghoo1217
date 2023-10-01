@@ -44,5 +44,5 @@ class Me {
 ### Contact
 [![Dev Blog Badge](http://img.shields.io/badge/-Dev%20Blog-316B83?style=flat&logo=github&link=https://learngoeson.tistory.com/)](https://learngoeson.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-5F939A?style=flat&logo=Gmail&logoColor=white&link=mailto:lsh6451217@gmail.com)](mailto:lsh6451217@gmail.com)
-[![Notion Badge](http://img.shields.io/badge/-Portfolio-63B4B8?style=flat&logo=notion&link=https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd)](https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd)
+[![Notion Badge](https://lavish-archeology-de0.notion.site/d929c0c28a15459b9a62801a8224489e?pvs=4)
 <a href="https://www.instagram.com/e.t.c_lee" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
