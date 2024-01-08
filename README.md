@@ -4,16 +4,15 @@
 ```java
 
 class Me {
-	String name="Lee, Seong ho";
-	String position=" Backend Developer";
-	List<String> tech_stack_BE=new ArrayList<>(){
+	String name = "Lee, Seong ho";
+	String position = "Backend Developer";
+	List<String> tech_stack_BE = new ArrayList<>(){
 		{
 			add("Java");
 			add("Kotlin");
 			add("Spring Boot");
 			add("JPA");
 			add("OOP");
-			add("Spring WebFlux");
 			add("Junit & Mock Test");
 		}
 	};
@@ -23,12 +22,13 @@ class Me {
 			add("Continuous Integration")
 			add("Continuous Delivery");
 			add("Docker");
+			add("Monitoring");
 			add("Jenkins");
 		}
 	};
-	String motto="grow together, slow but steady";
-	String address="Hanam, Gyeonggido";
-	String contact="lsh6451217@gmail.com";
+	String motto = "grow together";
+	String address = "Hanam, Gyeonggido";
+	String contact = "lsh6451217@gmail.com";
 }
 
 ```
