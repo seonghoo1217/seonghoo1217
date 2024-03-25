@@ -40,6 +40,12 @@ class Me {
 - 사소한 것으로부터 영감을 받아 위대함이 창조될 수 있다고 생각하기에 주변에 대해 항상 고민하고 생각합니다
 - 배움을 기록하고 회고하며, 공유함으로서 [함께 자라나기, 깊게 자라나기](https://learngoeson.tistory.com/59)를 지향합니다
 
+## Experience
+- 2022 DMU 캡스톤 한국전자전 장려상
+- 2023 DMU 캡스톤 최우수상
+- Unithon 8th 해커톤 
+- Unithon 10th 해커톤 우수상
+- SW Jungle 8기
 
 ### Contact
 [![Dev Blog Badge](http://img.shields.io/badge/-Dev%20Blog-316B83?style=flat&logo=github&link=https://learngoeson.tistory.com/)](https://learngoeson.tistory.com/)
