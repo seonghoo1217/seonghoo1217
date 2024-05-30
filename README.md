@@ -13,7 +13,7 @@ class Me {
 			add("Spring Boot");
 			add("JPA");
 			add("OOP");
-			add("Junit & Mock Test");
+			add("Test Development Driven");
 		}
 	};
 	List<String> infra=new ArrayList<>(){
@@ -22,7 +22,6 @@ class Me {
 			add("Continuous Integration")
 			add("Continuous Delivery");
 			add("Docker");
-			add("Monitoring");
 			add("Jenkins");
 		}
 	};
