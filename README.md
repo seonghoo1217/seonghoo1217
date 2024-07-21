@@ -26,7 +26,7 @@ class Me {
 		}
 	};
 	String motto = "grow together";
-	String address = "Hanam, Gyeonggido";
+	String address = "Hanam, Gyeonggido" 🇰🇷;
 	String contact = "lsh6451217@gmail.com";
 }
 
