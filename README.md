@@ -3,31 +3,40 @@
 
 ```java
 
+import DongyangMirae.University;
+import SWJungle.8th;
+
 class Me {
-	String name = "Lee, Seong ho";
-	String position = "Backend Developer";
-	List<String> tech_stack_BE = new ArrayList<>(){
-		{
-			add("Java");
-			add("Kotlin");
-			add("Spring Boot");
-			add("JPA");
-			add("OOP");
-			add("Test Development Driven");
-		}
-	};
-	List<String> infra=new ArrayList<>(){
-		{
-			add("AWS");
-			add("Continuous Integration")
-			add("Continuous Delivery");
-			add("Docker");
-			add("Jenkins");
-		}
-	};
-	String motto = "grow together";
-	String address = "Hanam, Gyeonggido" 🇰🇷;
-	String contact = "lsh6451217@gmail.com";
+    String name = "Lee, Seong ho";
+    String position = "Backend Developer";
+    
+    List<String> techStackBE = List.of(
+        "Java",
+        "Kotlin",
+        "Spring Boot",
+        "JPA",
+        "OOP",
+        "Test Development Driven"
+    );
+
+    List<String> infra = List.of(
+        "AWS",
+        "Continuous Integration",
+        "Continuous Delivery",
+        "Docker",
+        "Jenkins"
+    );
+
+    String motto = "grow together";
+    String address = "Hanam, Gyeonggido 🇰🇷";
+    String contact = "lsh6451217@gmail.com";
+
+    List<String> award = List.of(
+        "Unithon 8th",
+        "Unithon 10th",
+	"DMU Capstone 2022, 장려상",
+	"DMU Capstone 2023, 우수상"
+    );
 }
 
 ```
