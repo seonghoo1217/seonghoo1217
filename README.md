@@ -54,10 +54,10 @@ class Me {
 - Unithon 8th 해커톤 
 - Unithon 10th 해커톤 우수상
 - SW Jungle 8기
+- DDD Server 12기
 
 ### Contact
 [![Dev Blog Badge](http://img.shields.io/badge/-Dev%20Blog-316B83?style=flat&logo=github&link=https://learngoeson.tistory.com/)](https://learngoeson.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-5F939A?style=flat&logo=Gmail&logoColor=white&link=mailto:lsh6451217@gmail.com)](mailto:lsh6451217@gmail.com)
-[![Notion Badge](http://img.shields.io/badge/-AboutMe-63B4B8?style=flat&logo=notion&link=https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd)](https://lavish-archeology-de0.notion.site/d929c0c28a15459b9a62801a8224489e)
-[![Notion Badge](http://img.shields.io/badge/-Portfolio-63B4B8?style=flat&logo=notion&link=https://substantial-offer-24f.notion.site/1b8ee2c9fe234ce0a04b031d41802cbd)](https://lavish-archeology-de0.notion.site/0671dea1f4aa4bc295ba50d802495d83?v=8721c03052274549a7d7a710294e8167&pvs=4)
+[![Notion Badge](http://img.shields.io/badge/-Portfolio-63B4B8?style=flat&logo=notion&link=https://lavish-archeology-de0.notion.site/1dd9d1f3cb0d80e69b4bf80c04a9d826?pvs=4)](https://lavish-archeology-de0.notion.site/1dd9d1f3cb0d80e69b4bf80c04a9d826?pvs=4)
 <a href="https://www.instagram.com/e.t.c_lee" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
